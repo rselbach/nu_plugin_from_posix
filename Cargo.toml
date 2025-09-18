@@ -1,0 +1,8 @@
+[package]
+name = "nu_plugin_from_posix"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nu-plugin = "0.106.1"
+nu-protocol = "0.106.1"
